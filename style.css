@@ -1,0 +1,31 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.font-enhance {
+  font-size: 70px;
+}
+.flexible-container {
+  display: flex;
+}
+.font-enhance span {
+  color: orange;
+}
+.half-width {
+  width: 50%;
+  margin-left: 6%;
+}
+.padding-upper {
+  padding-top: 100px;
+}
+.color-set-all {
+  color: #575757;
+}
+.order-all {
+  text-decoration: none;
+  background-image: linear-gradient(to left,red, orange);
+  color: white;
+  padding: 15px 40px;
+  border-radius: 30px;
+  font-weight: 700;
+  box-shadow: 12px 12px 70x orange;
+}
