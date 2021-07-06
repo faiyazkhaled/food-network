@@ -69,7 +69,7 @@ body {
 }
 .three-sec-width {
   width: 33%;
-  box-shadow: 12px 12px 30px rgba(0, 0, 255, 0.2);
+  box-shadow: 12px 12px 30px rgb(240, 233, 229);
   margin-left: 2%;
   margin-right: 2%;
   width: 40%;
@@ -79,9 +79,34 @@ body {
 .recipe-cards {
   object-fit: cover;
   width: 100%;
- 
-  
 }
-.font-med{
+.font-med {
   font-size: 35px;
+  color: black;
+}
+.counts {
+  box-shadow: 12px 12px 100px rgb(240, 233, 229);
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 20px;
+  width: 70%;
+  border-radius: 10px;
+  border: 16px solid white;
+}
+.footer-header {
+  font-family: "Manrope", sans-serif;
+  background-color: black;
+  padding-bottom: 200px;
+  ;
+  text-align: center;
+  margin: 0;
+}
+footer h2 {
+  padding-top: 40px;
+  /* color: #575757; */
+  font-size: 40px;
+
+}
+h2 span {
+  color: rgb(235, 165, 35);
 }
