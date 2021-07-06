@@ -27,7 +27,7 @@ body {
   color: #575757;
 }
 .order-all {
-  box-shadow: 0px 0px 60px rgb(235, 165, 35);
+  box-shadow: 0px 0px 100px rgb(235, 165, 35);
   text-decoration: none;
   background-image: linear-gradient(to left, red, orange);
   color: white;
@@ -45,14 +45,19 @@ body {
     background-size: cover;
 
 }
-.second-fit{
+/* .second-fit{
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 .sec-info{
     font-family:'Manrope', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     padding-bottom: 100px;
+}
+#person-sizing{
+  width:50%;
+  margin-left: 30%;
+
 }
 
